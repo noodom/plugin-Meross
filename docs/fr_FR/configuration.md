@@ -10,4 +10,4 @@ Après téléchargement du plugin, il faut l’activer, puis renseigner les iden
 
 ### Configuration des équipements
 
-Tout est importé du cloud Meross, aucune configuration d'équipement n'est nécéssaire.
+Tout est importé du cloud Meross, aucune configuration d'équipement n'est nécessaire.
