@@ -1,7 +1,7 @@
 # Description
 ![screenshot1](../images/meross_icon.png)
 
-Plugin permettant de controler les équipements Meross
+Plugin permettant de contrôler les équipements Meross
 
 Liste des équipements compatibles
 - MSS310
