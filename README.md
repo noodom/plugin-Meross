@@ -7,9 +7,9 @@
 
 # Présentation:
 
-Plugin permettant de controller les prises Meross.
+Plugin permettant de contrôler les prises Meross.
 
-Consulter la documentation pour la liste des périphériques comptibles
+Consulter la documentation pour la liste des périphériques compatibles
 
 
 
