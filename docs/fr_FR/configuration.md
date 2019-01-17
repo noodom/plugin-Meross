@@ -2,7 +2,7 @@
 
 La partie configuration du plugin permet :
 
-* de renseigner le login et mdp du cloud Meross afin que le plugin puisse s'y connecter.
+* de renseigner le login et mot de passe du cloud Meross afin que le plugin puisse s'y connecter.
 
 ### Configuration du plugin
 
@@ -10,4 +10,4 @@ Après téléchargement du plugin, il faut l’activer, puis renseigner les iden
 
 ### Configuration des équipements
 
-Tout est importé du cloud Meross, aucune configuration d'équipement n'est nécéssaire.
+Tout est importé du cloud Meross, aucune configuration d'équipement n'est nécessaire.
